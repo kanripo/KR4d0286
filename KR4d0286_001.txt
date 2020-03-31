@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 北溪大全集
-#+DATE: 2020-03-31 11:34:29.019996
+#+DATE: 2020-03-31 11:34:29.393789
 #+PROPERTY: ID KR4d0286
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 1
 <pb:KR4d0286_WYG_001-1a>¶
 　　欽定四庫全書¶
@@ -325,7 +325,7 @@
 ¶
 　　警懦¶
 ¶
-　　顔子之克已鏌鎁斫空桑曽子毅於仁重擔硬&KR0387;梁子¶
+　　顔子之克已鏌鎁斫空桑曽子毅於仁重擔硬脊梁子¶
 路勇有行勁兵赴敵場孟軻剛不屈砥柱立滄浪嗟哉¶
 入聖門迢迢萬里長儻非四子才寜不中道僵爾宜變¶
 爾質變爾柔而剛¶
